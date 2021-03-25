@@ -138,3 +138,12 @@ Bringing machine 'default' up with 'virtualbox' provider...
 [vagrant@centos8 centos8ansible]$ sudo mysql_secure_installation 
 ~~~
 
+- mongo
+
+~~~
+$ monogo
+> use admin
+> db.createUser({user:"root", pwd:"hogehoge", roles:["root"]})
+> quit()
+~~~
+
