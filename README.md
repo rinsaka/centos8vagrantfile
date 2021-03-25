@@ -125,7 +125,7 @@ Bringing machine 'default' up with 'virtualbox' provider...
 - git clone
 
 ~~~
-[vagrant@centos8 ~]$ git clone zgit@github.com:rinsaka/centos8ansible.git
+[vagrant@centos8 ~]$ git clone git@github.com:rinsaka/centos8ansible.git
 ~~~
 
 - ansible
