@@ -146,7 +146,7 @@ $ monogo
 > quit()
 ~~~
 
-- madiadb
+- mariadb 
 
 ~~~
 [vagrant@centos8 centos8ansible]$ sudo mysql_secure_installation
