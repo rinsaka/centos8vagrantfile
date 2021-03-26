@@ -135,7 +135,6 @@ Bringing machine 'default' up with 'virtualbox' provider...
 [vagrant@centos8 centos8ansible]$ ./run.sh 
 
 [vagrant@centos8 centos8ansible]$ exec $SHELL -l 
-[vagrant@centos8 centos8ansible]$ sudo mysql_secure_installation 
 ~~~
 
 - mongo
@@ -147,3 +146,8 @@ $ monogo
 > quit()
 ~~~
 
+- madiadb
+
+~~~
+[vagrant@centos8 centos8ansible]$ sudo mysql_secure_installation
+~~~
