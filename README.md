@@ -118,7 +118,7 @@ Bringing machine 'default' up with 'virtualbox' provider...
 - secret key
 
 ~~~
-(base) rinsaka@Macmini2020 Cent8 % scp ~/.ssh/id_rsa vagrant@192.168.33.100:/home/vagrant/.ssh/
+(base) rinsaka@Macmini2020 Cent8 % scp ~/.ssh/id_rsa vagrant@192.168.33.110:/home/vagrant/.ssh/
 ~~~
 
 
